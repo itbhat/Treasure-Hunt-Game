@@ -2,6 +2,7 @@
 I created this game as a part of my assignment for my module of web programming at the University of Liverpool. It is an attempt by me to create a replica of the following github project: https://github.com/mingfeisun/Submarine-game
 
 The JavaScript program implements a simple game that consists of three stages, setup, play and end. During the play stage the game proceeds in rounds. The game is played on a grid with 10 x 10 cells, surrounded by an insurmountable wall, and involves a treasure hunter, controlled by the user, who collects treasures that are placed on the grid.
+
 The game always starts in the setup stage. During that stage the user is shown the grid and can place three different types of objects on the cells of the grid:
 by clicking on a cell and typing a number between 5 and 8, a treasure is placed on a cell, the number indicates the value of the treasure;
 by clicking on a cell and typing the letter "o", an obstacle is placed on a cell;
